@@ -31,3 +31,7 @@ Run 2 with: `./2`
 | `%6f` | print as floating point, at least 6 characters wide |
 | `%.2f` | print as floating point, 2 characters after decimal point |
 | `%6.2f` | print as floating point, at least 6 wide and 2 after decimal point |
+
+## exercises:
+- Exercise 1-3: Modify the temperature conversion program to print a heading above the table.
+- Exercise 1-4: Write a program to print the corresponding Celsius to Fahrenheit table.

@@ -42,6 +42,10 @@ Run 1.5.4 with: `./1-5-4`
 
 - `c = getchar() != EOF` is equivalent to `c = (getchar() != EOF)`
 
+#### exercises:
+- Exercise 1-6: Verify that the expression `getchar() != EOF` is 0 or 1.
+- Exercise 1-7: Write a program to print the value of `EOF`.
+
 ### 1.5.2:
 - `++` means to increment by one and is more consise and efficient than just adding one normally
 - `--` is the opposite to `++` and decrements by one
@@ -53,6 +57,9 @@ Run 1.5.4 with: `./1-5-4`
 
 - to cope with bigger numbers use a `double` (double precision `float`)
 
+#### exercises:
+None listed in book.
+
 ### 1.5.3:
 - `A` is 65 in the ASCII character set
 - `\n` or a newline character is 10 in the ASCII character set (see [chapter 2](../../) (not done yet) for strings vs characters)
@@ -62,9 +69,18 @@ Run 1.5.4 with: `./1-5-4`
 
 - a character written between single quotes represents an integer value equal to a machines numerical character value in the machines character set
 
+#### exercises:
+- Exercise 1-8: Write a program to count blanks, tabs, and newlines.
+- Exercise 1-9: Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank.
+- Exercise 1-10: Write a program to copy its input to its output, replacing each tab by `\t`, each backspace by `\b`, and each backslash by `\\`. This makes tabs and backspaces visible in an unambiguous way.
+
 ### 1.5.4:
 - `||` means "OR"
 - `&&` means "AND"
 - `&&` and `||` both go left to right
 
 - `nl = nw = nc = 0;` sets all three variables to zero
+
+#### exercises:
+- Exercise 1-11: How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any?
+- Exercise 1-12: Write a program that prints its input one word per line.

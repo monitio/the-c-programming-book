@@ -1,4 +1,4 @@
-# 1.4 - Symbolic Constants
+# 1.7 - Functions
 
 Compile with: `gcc src/main.c -o program`
 
@@ -10,13 +10,15 @@ Run with: `./program`
 [executables](./executables/) | [main.c](./src/main.c)
 
 ## important stuff:
-- `#define` defines a symbolic name or symbolic constant to be a particular string of characters:
+- Functions have to take on this form:
 ```c
-#define name replacement list
+returnType functionName(parameter declarations, if any) {
+  declarations
+  statements
+}
 ```
 
-- defines are normally in CAPITALS or upper case to stand out in cases where there are a lot of lower case names
-- defines do not appear in declarations
+- `return` will decide the output of a function (including main) e.g: `return 0;` for a perfectly fine ending
 
 ## exercises:
-No exercises listed in the book.
+- Exercise 1-15: Rewrite the temperature conversion program of [Section 1.2](../1.2/) to use a function for conversion.

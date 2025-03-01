@@ -10,4 +10,8 @@ Run with: `./program`
 [executables](./executables/) | [main.c](./src/main.c)
 
 ## important stuff:
--
+- the body of a loop can be a single statement or a group of statements enclosed in braces
+- the initialization, condition and increment can be any expressions
+
+## exercises:
+- Exercise 1-5: Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.

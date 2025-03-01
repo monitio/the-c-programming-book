@@ -24,6 +24,8 @@ The code listed will be put with an executable for Windows. Linux executables wi
 
 I will compile everything using [GCC](https://gcc.gnu.org/). Other C compilers (such as the one they use in [the book](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628/ref=sr_1_1_sspa?crid=YLR1VTK0A8WU&dib=eyJ2IjoiMSJ9.7MU6AwhWtIZGSokpR_0dhtXcC9pIfEMG5H2hH_VcSgqBF00MUHomNq-9tIkfV6tM5ycW2LIPdIB2guDsjEYOUAuroejUCm6zSN2InX0gH1IAtJ-ZZFkpE76nEMs7v4yq8-u0A1CXa1UbCWE4-xb-KHZH-rjreSoEHPNlfHV0WkocBlbmyHQ8zGL6g0qf2m0qhN7wtYtGilgYMiJLExkNdwWbh6DJkYCDR-x4cglOmf0.9gyj6qFdreqVwo9VyYMDxr8od9r1CNQTziWvaZDZUqQ&dib_tag=se&keywords=c+programming+book&qid=1740157325&sprefix=c+programming+book%2Caps%2C90&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)) won't be used.
 
+If you don't have a copy of [the book](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628/ref=sr_1_1_sspa?crid=YLR1VTK0A8WU&dib=eyJ2IjoiMSJ9.7MU6AwhWtIZGSokpR_0dhtXcC9pIfEMG5H2hH_VcSgqBF00MUHomNq-9tIkfV6tM5ycW2LIPdIB2guDsjEYOUAuroejUCm6zSN2InX0gH1IAtJ-ZZFkpE76nEMs7v4yq8-u0A1CXa1UbCWE4-xb-KHZH-rjreSoEHPNlfHV0WkocBlbmyHQ8zGL6g0qf2m0qhN7wtYtGilgYMiJLExkNdwWbh6DJkYCDR-x4cglOmf0.9gyj6qFdreqVwo9VyYMDxr8od9r1CNQTziWvaZDZUqQ&dib_tag=se&keywords=c+programming+book&qid=1740157325&sprefix=c+programming+book%2Caps%2C90&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) (which is recommended when reading through the code here) from somewhere like Amazon you can find an archived version of it in a [PDF document from here](https://archive.org/details/c-programming-language-2nd-edition).
+
 ## Progress:
 
 <a href="#progress">
