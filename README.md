@@ -6,7 +6,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Programming-Book-blue?style=for-the-badge&logo=c&logoColor=white" />
   </a>
   <a href="#progress">
-    <img src="https://custom-icon-badges.demolab.com/badge/percentage_done-6.25-green?style=for-the-badge&logo=graph&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/percentage_done-13.03-green?style=for-the-badge&logo=graph&logoColor=white" />
   </a>
 </div>
 
@@ -29,5 +29,5 @@ If you don't have a copy of [the book](https://www.amazon.co.uk/C-Programming-La
 ## Progress:
 
 <a href="#progress">
-  <img src="https://custom-icon-badges.demolab.com/badge/percentage-6.25-green?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/percentage-13.03-green?style=for-the-badge&logo=graph&logoColor=white" />
 </a>
